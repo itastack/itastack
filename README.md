@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./itastack-logo.png" alt="ItaStack" width="420">
+  <img src="./Logo principal (fundo claro)@1x.png" alt="ItaStack" width="420">
 </p>
 
 <h3 align="center">Software sólido, construído camada por camada.</h3>
